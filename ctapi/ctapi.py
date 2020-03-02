@@ -200,7 +200,6 @@ class CTAPI(object):
         """
 
         params = {
-            'currency': 'ETH',
         }
         params.update(args)
 
